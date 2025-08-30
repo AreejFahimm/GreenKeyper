@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
+  image_picker: ^1.2.0
+  signature: ^5.3.0
 
 dev_dependencies:
   flutter_test:
@@ -21,6 +23,8 @@ flutter:
   assets:
     - assets/fonts/
     - assets/images/signup_pic.png
+    - assets/images/vehicle_image.png
+    - assets/images/clock.png
 
   fonts:
     - family: OpenSansCondensed
