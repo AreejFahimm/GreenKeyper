@@ -6,8 +6,9 @@ class AppColors {
   static const bgMid = Color(0xFFEDEDED);
   static const bgBottom = Color(0xFFD8DBD8);
 
-  static const teal = Color(0xFF0B8A83);
+  //static const teal = Color(0xFF0B8A83);
   static const tealDark = Color(0xFF0A6E68);
+    static const teal = Color(0xFF057B99);
 
   // Common gradients
   static const buttonGradient = LinearGradient(
